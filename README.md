@@ -1,4 +1,5 @@
 # Prova 2º Bimestre
+![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 > Esse repositório foi criado como atividade avaliativa para a disciplina de Programação Avançada WEB, da Universidade de Vila Velha, ministrada pelo professor Otávio Lube. Essa parte do projeto consiste na integração com uma API criada na primeira parte do projeto, usando React Native e Typescript para realizar a construção da interface no Front-End.
 
