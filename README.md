@@ -10,5 +10,5 @@ Esse projeto serve como Front-End para a primeira parte do projeto. Para integr√
 
 Para executar o projeto, ap√≥s importar, precisamos realizar os seguintes comandos na linha de comando dentro da pasta:
 
-- ``` npm init -y ```
+- ``` npm install ```
 - ``` npm run web ```
