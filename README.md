@@ -1,50 +1,14 @@
-# Welcome to your Expo app 👋
+# Prova 2º Bimestre
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+> Esse repositório foi criado como atividade avaliativa para a disciplina de Programação Avançada WEB, da Universidade de Vila Velha, ministrada pelo professor Otávio Lube. Essa parte do projeto consiste na integração com uma API criada na primeira parte do projeto, usando React Native e Typescript para realizar a construção da interface no Front-End.
 
-## Get started
+A estrutura da API tem o controle dos modelos de usuário, posts e comentários.
 
-1. Install dependencies
+Esse projeto serve como Front-End para a primeira parte do projeto. Para integrá-lo com a API desenvolvida no Back-End, é necessário a importação e inicialização do arquivo que se encontra no [primeiro repositório](https://github.com/analaurabrito/WEB_ProvaB2_Back) desse exercício.
 
-   ```bash
-   npm install
-   ```
+## 💻 Lista de comandos
 
-2. Start the app
+Para executar o projeto, após importar, precisamos realizar os seguintes comandos na linha de comando dentro da pasta:
 
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- ``` npm init -y ```
+- ``` npm run web ```
